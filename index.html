@@ -8,9 +8,17 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            height: 100vh;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        h1{
+            text-align: center;
         }
 
         .typing-text {
@@ -31,7 +39,7 @@
             display: inline-block;
             vertical-align: middle;
             width: 2px;
-            height: 20px;
+            height: 24px;
             background-color: black;
             animation: blink 1s infinite;
         }
@@ -51,6 +59,8 @@
 </head>
 
 <body>
+
+    <h1>Effect typing text</h1>
 
     <div class="typing-text">
         <span data-js="typing"></span>

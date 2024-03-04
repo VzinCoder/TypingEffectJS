@@ -2,10 +2,7 @@
 
 Este é um exemplo de como criar um efeito de digitação utilizando JavaScript em uma página da web.
 
-<video width='100%' controls>
-  <source src="typing-effect.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+https://github.com/VzinCoder/TypingEffectJS/assets/154604730/98c94bf0-7c59-49aa-a0f1-6fc81f9454d9
 
 ## Como funciona
 
